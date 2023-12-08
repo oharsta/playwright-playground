@@ -25,7 +25,8 @@ yarn playwright codegen
 
 And check out the following files:
   - ./tests/example.spec.ts - Example end-to-end test
-  - ./tests-examples/demo-todo-app.spec.ts - Demo Todo App end-to-end tests
+  - ./tests/demo-todo-app.spec.ts - Demo Todo App end-to-end tests
+  - ./tests/zilverline-contact.spec.ts - Demo Todo App end-to-end tests
   - ./playwright.config.ts - Playwright Test configuration
 
 Visit https://playwright.dev/docs/intro for more information.
